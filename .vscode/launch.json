@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:FLogKit}",
+            "name": "Debug FLogKit",
+            "program": "${workspaceFolder:FLogKit}/.build/debug/FLogKit",
+            "preLaunchTask": "swift: Build Debug FLogKit"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:FLogKit}",
+            "name": "Release FLogKit",
+            "program": "${workspaceFolder:FLogKit}/.build/release/FLogKit",
+            "preLaunchTask": "swift: Build Release FLogKit"
+        }
+    ]
+}
