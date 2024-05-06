@@ -1,0 +1,8 @@
+2024-05-06 | 13:18:21: Info - Started Process XYZ to get user data
+2024-05-06 | 13:18:21: Error - Error while getting user data: No user found
+2024-05-06 | 13:18:21: Problem - An User with name ABC allready exists
+2024-05-06 | 13:18:21: Exception - Fatal Error: Name is empty
+2024-05-06 | 13:26:15: Info - Started Process XYZ to get user data
+2024-05-06 | 13:26:15: Error - Error while getting user data: No user found
+2024-05-06 | 13:26:15: Problem - An User with name ABC allready exists
+2024-05-06 | 13:26:15: Exception - Fatal Error: Name is empty
